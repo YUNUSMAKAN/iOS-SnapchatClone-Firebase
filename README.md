@@ -1,4 +1,32 @@
 # iOS-SnapchatClone-Firebase
+# Firebase
+
+Firebase is a technology that allows you to create web applications without server-side programming, making development faster and easier. It supports Web, iOS, OS X and Android clients. Apps that use Firebase can use and control data without thinking about how data is stored and synchronized across different instances of the application in real-time.
+
+Working with Firebase from a developer's perspective is a wonderful benefit, as they are the core technology of development.
+
+* Advantages:
+
+Authentication. Firebase authentication includes a built-in email/password authentication system. It supports OAuth2 for Facebook, Google, Twitter and GitHub. Additionally, the Firebase standard integrates directly into the Firebase database so that you can use it to control access to your data.
+Hosting. Firebase comes with an easy-to-use hosting service for all your static files. It works from a global CDN with HTTP / 2.
+Real-time synchronization of data across all clients, be it Android, iOS or the Web, is very useful. With minimal code, you can notify users of chat boxes, live news feeds, new posts or friend requests, and more.
+The code for AJS is straightforward in any way. From querying data to integrating Twitter, Facebook and Google+ logins, you can implement it very quickly with some nice features.
+With automatic update notifications, it can sync both systems without manual messaging, WebSockets, etc.
+Allows you to consider data streams to create more scalable applications.
+
+* Some benefits of using Firebase
+
+Firebase Real-Time Database
+Firebase standard
+Firebase storage
+Firebase Cloud Message
+Firebase notification
+Firebase Remote Config
+Firebase Crash Report
+Firebase Application Index
+Firebase Analytics
+Firebase Test Lab for Android
+
 # Add Firebase to your iOS project
 
 Prerequisites
